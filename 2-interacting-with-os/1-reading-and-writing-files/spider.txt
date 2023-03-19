@@ -1,0 +1,6 @@
+In the introductory course to Python
+we provided information to our scripts by creating
+variables and passing parameters to
+our functions with the values that we wanted.
+To open a file on a computer called spider.txt,
+we can write this code. 
