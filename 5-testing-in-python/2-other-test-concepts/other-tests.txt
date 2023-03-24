@@ -1,0 +1,20 @@
+White-box Test (aka clear-box or transparent test)
+> Relies on the test creator's knowledge of the software being tested to construct the test cases
+
+Black-box Test
+> Written with an awareness of what the program is supposed to do - its requirements or specifications - but not how it does it
+
+Integration Test
+> Verifies that the interactions between the different pieces of code in integrated environments are working the way we expect them to
+
+Regression Test
+> Written as part of a debugging and troubleshooting process to verify that an issue/error has been fixed once identified
+> i.e. If there is a bug, first write a test that fails by triggering the buggy behavior, then fix the bug so that a test passes
+> Ensures that the same mistake doesn't happen twice
+
+Smoke Test/Build Verification Test
+> Serves as a sanity check to find major bugs in a program; answers basic questions like: Does the program run? 
+> Usually ran before more refined testing takes place
+
+Load Test
+> Verifies that the system behaves well when it's under significant load
